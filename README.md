@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Treatment Finder by Vital Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/NGershmel/Treatment-Finder/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the temporary privacy policy used for the alpha stage of the application.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Privacy Policy
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NGershmel/Treatment-Finder/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The Treatment Finder uses course and fine location to determine your position using your phones GPS and WiFi. This enables the app to find treatment facilities based on location. When you search, select or save a treatment facility your location and search criteria will be stored on a remote server. No identifiable information will be stored at any point.
